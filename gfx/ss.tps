@@ -181,10 +181,131 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">export/employee0.png</key>
-            <key type="filename">export/employee1.png</key>
-            <key type="filename">export/employee2.png</key>
-            <key type="filename">export/employee3.png</key>
+            <key type="filename">export/bgHUD.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>22,32,45,65</rect>
+                <key>scale9Paddings</key>
+                <rect>22,32,45,65</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/bgInventory.png</key>
+            <key type="filename">export/bin.png</key>
+            <key type="filename">export/files.png</key>
+            <key type="filename">export/fxCircleEmpty.png</key>
+            <key type="filename">export/fxSquare.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,6,12,12</rect>
+                <key>scale9Paddings</key>
+                <rect>6,6,12,12</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/bgNotepad.png</key>
+            <key type="filename">export/shadowNotepad.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>105,92,209,183</rect>
+                <key>scale9Paddings</key>
+                <rect>105,92,209,183</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/coffeeMaker.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,13,12,26</rect>
+                <key>scale9Paddings</key>
+                <rect>6,13,12,26</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/copier.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,12,12,24</rect>
+                <key>scale9Paddings</key>
+                <rect>6,12,12,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/cupboard.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,12,11,23</rect>
+                <key>scale9Paddings</key>
+                <rect>6,12,11,23</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/employeeBack0.png</key>
+            <key type="filename">export/employeeBack1.png</key>
+            <key type="filename">export/employeeBack2.png</key>
+            <key type="filename">export/employeeBack3.png</key>
+            <key type="filename">export/employeeFront0.png</key>
+            <key type="filename">export/employeeFront1.png</key>
+            <key type="filename">export/employeeFront2.png</key>
+            <key type="filename">export/employeeFront3.png</key>
+            <key type="filename">export/employeeSideLeft0.png</key>
+            <key type="filename">export/employeeSideLeft1.png</key>
+            <key type="filename">export/employeeSideLeft2.png</key>
+            <key type="filename">export/employeeSideLeft3.png</key>
+            <key type="filename">export/employeeSideRight0.png</key>
+            <key type="filename">export/employeeSideRight1.png</key>
+            <key type="filename">export/employeeSideRight2.png</key>
+            <key type="filename">export/employeeSideRight3.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>6,8,12,17</rect>
+                <key>scale9Paddings</key>
+                <rect>6,8,12,17</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">export/fxCircle.png</key>
             <key type="filename">export/iconCoffee.png</key>
             <key type="filename">export/iconCopyFiles.png</key>
@@ -203,6 +324,39 @@
                 <rect>4,4,8,8</rect>
                 <key>scale9Paddings</key>
                 <rect>4,4,8,8</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/pixel.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>0,0,1,1</rect>
+                <key>scale9Paddings</key>
+                <rect>0,0,1,1</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">export/playerBack.png</key>
+            <key type="filename">export/playerFront.png</key>
+            <key type="filename">export/playerSideLeft.png</key>
+            <key type="filename">export/playerSideRight.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>3,7,7,15</rect>
+                <key>scale9Paddings</key>
+                <rect>3,7,7,15</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
